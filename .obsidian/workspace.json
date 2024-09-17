@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "31da749c0d273a4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "788e3e1cebfd550f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "478888ee9ac8ae76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проектирование БД/Алгоритмы кэширования.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b791aba1365ad006",
+    "type": "split",
+    "children": [
+      {
+        "id": "540fe807a4cdd4d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb6500a03995797",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f0e7a1cb1691d9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bddf8c95d31844dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "01b8b4506d8b75ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d9ec457033d43de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b40c3d52a473d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Проектирование БД/Алгоритмы кэширования.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86e0cc9d121de0d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Проектирование БД/Алгоритмы кэширования.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98c6696248d3acc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1a64488fc2e6e525",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Проектирование БД/Алгоритмы кэширования.md"
+              }
+            }
+          },
+          {
+            "id": "4301c666b445647e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4301c666b445647e",
+  "lastOpenFiles": [
+    "Проектирование БД/Внешний ключ.md",
+    "Проектирование БД/Первичный ключ.md",
+    "Проектирование БД/Потенциальный ключ.md",
+    "Проектирование БД/Резидентная СУБД.md",
+    "Проектирование БД/Реляционные ключи.md",
+    "Проектирование БД/БД ключ-значение.md",
+    "Проектирование БД/Реляционная модель данных.md",
+    "Проектирование БД/Redis.md",
+    "Проектирование БД/Алгоритмы кэширования.md",
+    "files/Pasted image 20240917225734.png",
+    "files/lru1-7579061.png",
+    "Проектирование БД/Суперключ.md",
+    "Проектирование БД/LRU.md",
+    "Проектирование БД/Потенциальный.md",
+    "Проектирование БД/суперключом.md",
+    "Проектирование БД/MRU.md",
+    "files",
+    "lru1-7579061.png",
+    "Добро пожаловать.md",
+    "Проектирование БД"
+  ]
+}
