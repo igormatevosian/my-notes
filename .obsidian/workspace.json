@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "4c0bed1a1b4f80f2",
+        "id": "85351b0d92644e9a",
         "type": "tabs",
         "children": [
           {
-            "id": "3219ee403d741c12",
+            "id": "ec3976cdaedbb9e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проектирование БД/БД ключ-значение.md",
+                "file": "Проектирование БД/Алгоритмы кэширования.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "00f7a3d46417c82e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проектирование БД/Алгоритмы кэширования.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dd1c80663321791",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проектирование БД/БД ключ-значение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проектирование БД/БД ключ-значение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Проектирование БД/БД ключ-значение.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 640.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,23 +172,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3219ee403d741c12",
+  "active": "0dd1c80663321791",
   "lastOpenFiles": [
-    "Проектирование БД/Суперключ.md",
     "Проектирование БД/Реляционная модель данных.md",
-    "Проектирование БД/Резидентная СУБД.md",
+    "Проектирование БД/LRU.md",
+    "Проектирование БД/Реляционные ключи.md",
+    "files/Logo-redis.svg.png",
+    "Проектирование БД/Redis.md",
+    "Проектирование БД/KeyDB.md",
+    "files/Pasted image 20241013010702.png",
+    "Проектирование БД/Алгоритмы кэширования.md",
+    "Проектирование БД/LFU.md",
+    "files/Pasted image 20241013005647.png",
+    "Проектирование БД/Алгоритм Белади.md",
+    "Проектирование БД/Первичный ключ.md",
     "Проектирование БД/Внешний ключ.md",
     "Проектирование БД/БД ключ-значение.md",
-    "Проектирование БД/Алгоритмы кэширования.md",
+    "Проектирование БД/ассоциативный массив.md",
+    "Проектирование БД/Суперключ.md",
+    "Проектирование БД/Резидентная СУБД.md",
     "Лабы/Проектирование БД 2.md",
     "Лабы",
-    "Проектирование БД/Первичный ключ.md",
     "Проектирование БД/Потенциальный ключ.md",
-    "Проектирование БД/Реляционные ключи.md",
-    "Проектирование БД/Redis.md",
     "files/Pasted image 20240917225734.png",
     "files/lru1-7579061.png",
-    "Проектирование БД/LRU.md",
     "Проектирование БД/Потенциальный.md",
     "Проектирование БД/суперключом.md",
     "Проектирование БД/MRU.md",
