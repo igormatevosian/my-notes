@@ -1,3 +1,4 @@
+#db_design 
 LRU - least recently used
 
 ![[lru1-7579061.png|300]]
