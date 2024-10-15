@@ -80,19 +80,43 @@
             }
           },
           {
-            "id": "ae2b82f18f9e1486",
+            "id": "db4967ed2e3eabbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL.md",
+                "file": "Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5478271c90e37c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poetry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2ab8677d1ff7017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poetry.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -158,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL.md",
+                "file": "Poetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL.md",
+                "file": "Poetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL.md"
+                "file": "Poetry.md"
               }
             }
           },
@@ -228,8 +252,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae2b82f18f9e1486",
+  "active": "e2ab8677d1ff7017",
   "lastOpenFiles": [
+    "Obsidian.md",
+    "Poetry.md",
+    "Python.md",
     "Реляционная СУБД.md",
     "PostgreSQL.md",
     "Резидентная СУБД.md",
