@@ -102,21 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e2ab8677d1ff7017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poetry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -252,24 +240,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2ab8677d1ff7017",
+  "active": "e5478271c90e37c8",
   "lastOpenFiles": [
+    "LRU.md",
+    "LFU.md",
+    "KeyDB.md",
+    "Alembic.md",
+    "Python.md",
     "Obsidian.md",
     "Poetry.md",
-    "Python.md",
-    "Реляционная СУБД.md",
     "PostgreSQL.md",
+    "files/Pasted image 20241016003018.png",
+    "Redis.md",
+    "files/736908a2-ff83-486e-8884-6a35ca3ce0c1.png",
+    "files/i.webp",
+    "Суперключ.md",
+    "files/bf119bd48f748f4fd2d65f2d1bb05d3c806883b5.png",
+    "files/obsidian_dr_4x.jpg",
+    "Реляционная модель данных.md",
+    "Реляционная СУБД.md",
     "Резидентная СУБД.md",
     "Алгоритмы кэширования.md",
     "Алгоритм Белади.md",
     "MRU.md",
-    "Redis.md",
-    "LRU.md",
-    "LFU.md",
-    "KeyDB.md",
-    "Суперключ.md",
     "Реляционные ключи.md",
-    "Реляционная модель данных.md",
     "Потенциальный ключ.md",
     "Первичный ключ.md",
     "Двухуровневая модель хранения данных.md",
@@ -283,12 +277,9 @@
     "Лабы/Проектирование БД 2.md",
     "Лабы",
     "files/Pasted image 20240917225734.png",
-    "files/lru1-7579061.png",
     "Проектирование БД/Потенциальный.md",
     "Проектирование БД/суперключом.md",
     "files",
-    "lru1-7579061.png",
-    "Добро пожаловать.md",
     "Проектирование БД"
   ]
 }

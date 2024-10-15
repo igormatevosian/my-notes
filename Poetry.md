@@ -1,5 +1,5 @@
-#python #utils
-
+#python #tools 
+![[i.webp|400]]
 ### Установка
 ```bash
 curl -sSL https://install.python-poetry.org | python3 -
