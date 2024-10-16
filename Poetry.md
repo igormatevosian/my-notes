@@ -53,3 +53,8 @@ which python
 ```bash
 poetry install
 ```
+
+#### Generation requirements.txt
+```bash
+poetry export --without-hashes --format=requirements.txt > requirements.txt
+```
