@@ -4,105 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "3826ca2a8bffbcec",
+        "id": "85351b0d92644e9a",
         "type": "tabs",
         "children": [
           {
-            "id": "41fd6e48f6ffcb28",
+            "id": "ec3976cdaedbb9e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure as code.md",
+                "file": "Алгоритмы кэширования.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Infrastructure as code"
+              }
             }
           },
           {
-            "id": "9b274c7a387afdfa",
+            "id": "00f7a3d46417c82e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure as code.md",
+                "file": "Алгоритмы кэширования.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Infrastructure as code"
+              }
             }
           },
           {
-            "id": "585b2bce3f68c99f",
+            "id": "0dd1c80663321791",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure as code.md",
+                "file": "Redis.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Infrastructure as code"
+              }
             }
           },
           {
-            "id": "78160081e57cd9eb",
+            "id": "09cce9259cdf1f2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure as code.md",
+                "file": "Алгоритм Белади.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Infrastructure as code"
+              }
             }
           },
           {
-            "id": "ff7e3d2f7d867ef0",
+            "id": "d97e634e85a2f860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure as code.md",
+                "file": "Алгоритмы кэширования.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Infrastructure as code"
+              }
             }
           },
           {
-            "id": "5b402bf0b743e980",
+            "id": "abc5e7e98b33cc1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure as code.md",
+                "file": "Реляционная СУБД.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Infrastructure as code"
+              }
             }
           },
           {
-            "id": "a45d3ca2982824a7",
+            "id": "db4967ed2e3eabbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ansible.md",
+                "file": "Poetry.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ansible"
+              }
             }
           }
         ],
@@ -126,9 +112,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              }
             }
           },
           {
@@ -143,9 +127,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Поиск"
+              }
             }
           },
           {
@@ -153,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "state": {}
             }
           }
         ]
@@ -186,9 +166,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для Poetry"
+              }
             }
           },
           {
@@ -200,9 +178,7 @@
                 "file": "Poetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Poetry"
+              }
             }
           },
           {
@@ -213,9 +189,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
+              }
             }
           },
           {
@@ -225,9 +199,7 @@
               "type": "outline",
               "state": {
                 "file": "Poetry.md"
-              },
-              "icon": "lucide-list",
-              "title": "Структура Poetry"
+              }
             }
           },
           {
@@ -235,9 +207,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           }
         ],
@@ -249,43 +219,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a45d3ca2982824a7",
+  "active": "db4967ed2e3eabbd",
   "lastOpenFiles": [
-    "files/Ansible_logo.svg.png",
+    "Git.md",
+    "Obsidian.md",
     "Poetry.md",
     "PostgreSQL.md",
-    "Chef.md",
-    "Git.md",
-    "Alembic.md",
-    "Ansible.md",
-    "Redis.md",
-    "Python.md",
-    "Pushed-based model.md",
-    "Puppet.md",
     "Pull-based model.md",
-    "Obsidian.md",
-    "MRU.md",
-    "LRU.md",
+    "Puppet.md",
+    "Python.md",
+    "Redis.md",
+    "Pushed-based model.md",
+    "Chef.md",
+    "Идемпотентность.md",
+    "files/Ansible_logo.svg.png",
+    "Infrastructure as code.md",
+    "Ansible.md",
+    "Алгоритм Белади.md",
+    "Реляционные ключи.md",
+    "Суперключ.md",
+    "Alembic.md",
     "LFU.md",
     "KeyDB.md",
-    "Суперключ.md",
-    "Реляционные ключи.md",
-    "Реляционная СУБД.md",
-    "Реляционная модель данных.md",
+    "LRU.md",
+    "MRU.md",
+    "БД ключ-значение.md",
+    "Алгоритмы кэширования.md",
     "Резидентная СУБД.md",
     "Потенциальный ключ.md",
     "Первичный ключ.md",
-    "Идемпотентность.md",
-    "Двухуровневая модель хранения данных.md",
     "files/Pasted image 20241016003018.png",
     "files/736908a2-ff83-486e-8884-6a35ca3ce0c1.png",
     "files/i.webp",
@@ -296,7 +267,6 @@
     "files/Pasted image 20241013010702.png",
     "files/Pasted image 20241013005647.png",
     "Лабы",
-    "files/Pasted image 20240917225734.png",
     "files",
     "Проектирование БД"
   ]

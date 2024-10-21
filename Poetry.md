@@ -35,6 +35,12 @@ poetry init
 ```bash
 poetry add pendulum
 ```
+>[!info]
+>Add test dependencie
+>```bash
+poetry add pytest --group test
+
+
 
 #### Poetry run
 To run your script simply use `poetry run python your_script.py`. Likewise if you have command line tools such as `pytest` or `black` you can run them using `poetry run pytest`.
