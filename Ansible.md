@@ -1,5 +1,5 @@
 #devops #tools 
-![[Ansible_logo.svg.png]]
+![[Ansible_logo.svg.png|200]]
 Современная система, работающая по методу push. Очень низкий порог входа
 - [[Pushed-based model]], отсутствие агентов
 - Низкий порог входа
