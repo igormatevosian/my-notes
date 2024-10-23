@@ -64,3 +64,15 @@ poetry install
 ```bash
 poetry export --without-hashes --format=requirements.txt > requirements.txt
 ```
+
+## [[Pre-commit]] hook
+```yaml
+repos:
+ - repo: https://github.com/python-poetry/poetry
+   rev: "1.8.4"
+   hooks:
+		- id: poetry-check
+		- id: poetry-lock
+		- id: poetry-export
+		- id: poetry-install
+```
