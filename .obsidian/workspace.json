@@ -270,6 +270,7 @@
   },
   "active": "7c48ac78eb17ae52",
   "lastOpenFiles": [
+    "Python.md",
     "UV.md",
     "Pushed-based model.md",
     "Puppet.md",
@@ -281,7 +282,6 @@
     "Pull-based model.md",
     "Bash.md",
     "Redis.md",
-    "Python.md",
     "Alembic.md",
     "Chef.md",
     "Git.md",
