@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "7c48ac78eb17ae52",
+            "id": "bcc28bd5d7162029",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -268,20 +268,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c48ac78eb17ae52",
+  "active": "bcc28bd5d7162029",
   "lastOpenFiles": [
+    "Vue.js.md",
+    "files/vue-big.png",
+    "files/Pasted image 20241024160635.png",
+    "files/shirt-1490421379-02ee987be67c75475b5b71a704b54987.png",
     "Python.md",
+    "Redis.md",
     "UV.md",
     "Pushed-based model.md",
     "Puppet.md",
     "Infrastructure as code.md",
-    "files/Pasted image 20241024160635.png",
     "files/Pasted image 20241024160548.png",
     "Ruff.md",
     "Pre-commit.md",
     "Pull-based model.md",
     "Bash.md",
-    "Redis.md",
     "Alembic.md",
     "Chef.md",
     "Git.md",
@@ -296,15 +299,12 @@
     "Ansible.md",
     "БД ключ-значение.md",
     "Алгоритмы кэширования.md",
-    "Алгоритм Белади.md",
     "files/Ansible_logo.svg.png",
     "files/Pasted image 20241016003018.png",
     "files/736908a2-ff83-486e-8884-6a35ca3ce0c1.png",
     "files/i.webp",
     "files/bf119bd48f748f4fd2d65f2d1bb05d3c806883b5.png",
     "files/obsidian_dr_4x.jpg",
-    "files/Pasted image 20241013011919.png",
-    "files/Logo-redis.svg.png",
     "Лабы",
     "files",
     "Проектирование БД"
