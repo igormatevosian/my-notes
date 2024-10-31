@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure as code.md",
-                "mode": "source",
+                "file": "Vue.js.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infrastructure as code"
+              "title": "Vue.js"
             }
           },
           {
@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "Infrastructure as code.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -109,14 +109,17 @@
             "id": "bcc28bd5d7162029",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Vue.js.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vue.js"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,18 +271,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcc28bd5d7162029",
+  "active": "41fd6e48f6ffcb28",
   "lastOpenFiles": [
+    "Infrastructure as code.md",
+    "Redis.md",
     "Vue.js.md",
     "files/vue-big.png",
     "files/Pasted image 20241024160635.png",
     "files/shirt-1490421379-02ee987be67c75475b5b71a704b54987.png",
     "Python.md",
-    "Redis.md",
     "UV.md",
     "Pushed-based model.md",
     "Puppet.md",
-    "Infrastructure as code.md",
     "files/Pasted image 20241024160548.png",
     "Ruff.md",
     "Pre-commit.md",
