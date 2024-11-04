@@ -150,8 +150,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "pos",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -171,7 +171,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -273,6 +274,8 @@
   },
   "active": "41fd6e48f6ffcb28",
   "lastOpenFiles": [
+    "Obsidian.md",
+    "PostgreSQL.md",
     "Идемпотентность.md",
     "Реляционная СУБД.md",
     "Alembic.md",
@@ -295,12 +298,10 @@
     "Chef.md",
     "Git.md",
     "MRU.md",
-    "PostgreSQL.md",
     "Реляционная модель данных.md",
     "LFU.md",
     "LRU.md",
     "KeyDB.md",
-    "Obsidian.md",
     "БД ключ-значение.md",
     "Алгоритмы кэширования.md",
     "files/Ansible_logo.svg.png",
