@@ -11,10 +11,14 @@
             "id": "41fd6e48f6ffcb28",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL"
             }
           },
           {
@@ -269,9 +273,13 @@
   },
   "active": "41fd6e48f6ffcb28",
   "lastOpenFiles": [
+    "Идемпотентность.md",
+    "Реляционная СУБД.md",
+    "Alembic.md",
+    "Bash.md",
     "Ansible.md",
-    "Vue.js.md",
     "Infrastructure as code.md",
+    "Vue.js.md",
     "Redis.md",
     "files/vue-big.png",
     "files/Pasted image 20241024160635.png",
@@ -284,14 +292,11 @@
     "Ruff.md",
     "Pre-commit.md",
     "Pull-based model.md",
-    "Bash.md",
-    "Alembic.md",
     "Chef.md",
     "Git.md",
     "MRU.md",
     "PostgreSQL.md",
     "Реляционная модель данных.md",
-    "Реляционная СУБД.md",
     "LFU.md",
     "LRU.md",
     "KeyDB.md",
