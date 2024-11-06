@@ -121,3 +121,6 @@ todos.value.push(newTodo)
 ```js
 todos.value = todos.value.filter(/* ... */)
 ```
+
+## Вычисляемые свойства
+https://ru.vuejs.org/tutorial/#step-8
