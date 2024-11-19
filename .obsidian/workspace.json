@@ -132,9 +132,19 @@
               "icon": "lucide-file",
               "title": "Vue.js"
             }
+          },
+          {
+            "id": "2036e4d56d3ad43b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -286,8 +296,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16f7bc974a7030c6",
+  "active": "2036e4d56d3ad43b",
   "lastOpenFiles": [
+    "SQLModel.md",
+    "files/logo-margin-white-vector.svg",
+    "Vue.js.md",
+    "Ansible.md",
     "UV.md",
     "Obsidian.md",
     "PostgreSQL.md",
@@ -295,9 +309,7 @@
     "Реляционная СУБД.md",
     "Alembic.md",
     "Bash.md",
-    "Ansible.md",
     "Infrastructure as code.md",
-    "Vue.js.md",
     "Redis.md",
     "files/vue-big.png",
     "files/Pasted image 20241024160635.png",
@@ -316,14 +328,11 @@
     "LFU.md",
     "LRU.md",
     "KeyDB.md",
-    "БД ключ-значение.md",
-    "Алгоритмы кэширования.md",
     "files/Ansible_logo.svg.png",
     "files/Pasted image 20241016003018.png",
     "files/736908a2-ff83-486e-8884-6a35ca3ce0c1.png",
     "files/i.webp",
     "files/bf119bd48f748f4fd2d65f2d1bb05d3c806883b5.png",
-    "files/obsidian_dr_4x.jpg",
     "Лабы",
     "files",
     "Проектирование БД"
